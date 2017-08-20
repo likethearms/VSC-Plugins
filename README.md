@@ -7,3 +7,11 @@ Useful Visual Studio Code Plugins
 - require module support
 - vetur
 - Python
+
+'''bash
+apt install autopep8
+'''
+
+'''bash
+npm -g i eslint
+'''
