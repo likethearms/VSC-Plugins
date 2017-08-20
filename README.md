@@ -8,10 +8,10 @@ Useful Visual Studio Code Plugins
 - vetur
 - Python
 
-'''bash
+```bash
 apt install autopep8
-'''
+```
 
-'''bash
+```bash
 npm -g i eslint
-'''
+```
