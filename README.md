@@ -8,10 +8,12 @@ Useful Visual Studio Code Plugins
 - vetur
 - Python
 
+Install autopep8 support for python formater
 ```bash
 apt install autopep8
 ```
 
+Install ESLint
 ```bash
 npm -g i eslint
 ```
