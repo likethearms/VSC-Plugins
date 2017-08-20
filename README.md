@@ -6,3 +6,4 @@ Useful Visual Studio Code Plugins
 - path-intellisense
 - require module support
 - vetur
+- Python
