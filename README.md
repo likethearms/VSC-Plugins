@@ -10,7 +10,7 @@ Useful Visual Studio Code Plugins
 
 Install autopep8 support for python formater
 ```bash
-apt install autopep8
+apt install python-autopep8
 ```
 
 Install ESLint
